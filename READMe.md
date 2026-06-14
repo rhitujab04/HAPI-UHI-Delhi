@@ -2,7 +2,7 @@
 
 Interactive Heat Adaptation Priority Index (HAPI) Map for Delhi NCR
 
-This repository contains the interactive visualization used in the study _"Persistent and Emerging Urban Heat Island Hotspots and Adaptation Priorities in a Megacity"_.
+This repository contains the interactive visualization used in the study _"Intensifying Urban Heat Island Hotspots and Adaptation Priorities in Delhi"_.
 
 **Files:**
 
