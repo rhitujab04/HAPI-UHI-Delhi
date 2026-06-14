@@ -6,7 +6,7 @@ This repository contains the interactive visualization used in the study _"Inten
 
 **Files:**
 
-- HAPI_HD_daynight_final.html – Interactive map showing daytime and nighttime Heat Adaptation Priority Index (HAPI) classes.
+- HAPI_HD_daynight_final.html – Interactive map showing daytime and nighttime Spatial Heat Adaptation Priority Index (HAPI) classes.
 - HAPI_interactive_map.ipynb – Python Jupyter Notebook containing the code used to generate the interactive HAPI visualization.
 
 **To view the interactive HAPI map** click on the link _https://rhitujab04.github.io/HAPI-UHI-Delhi/_
